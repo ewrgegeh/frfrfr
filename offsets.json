@@ -1,21 +1,21 @@
 {
     "buttons": {
-        "attack": "0x18285D0",
-        "attack2": "0x1828660",
-        "back": "0x18288A0",
-        "duck": "0x1828B70",
-        "forward": "0x1828810",
-        "jump": "0x1828AE0",
-        "left": "0x1828930",
-        "lookatweapon": "0x1A364E0",
-        "reload": "0x1828540",
-        "right": "0x18289C0",
-        "showscores": "0x1A363C0",
-        "sprint": "0x18284B0",
-        "turnleft": "0x18286F0",
-        "turnright": "0x1828780",
-        "use": "0x1828A50",
-        "zoom": "0x1A36450"
+        "attack": "0x182A5E0",
+        "attack2": "0x182A670",
+        "back": "0x182A8B0",
+        "duck": "0x182AB80",
+        "forward": "0x182A820",
+        "jump": "0x182AAF0",
+        "left": "0x182A940",
+        "lookatweapon": "0x1A38600",
+        "reload": "0x182A550",
+        "right": "0x182A9D0",
+        "showscores": "0x1A384E0",
+        "sprint": "0x182A4C0",
+        "turnleft": "0x182A700",
+        "turnright": "0x182A790",
+        "use": "0x182AA60",
+        "zoom": "0x1A38570"
     },
     "CCSPlayer_MovementServices": {
         "m_flMaxFallVelocity": "0x218",
@@ -1107,9 +1107,9 @@
         "m_flTimeParticleEffectSpawn": "0x1230"
     },
     "C_CSGO_PreviewPlayer": {
-        "m_animgraph": "0x2520",
-        "m_animgraphCharacterModeString": "0x2528",
-        "m_flInitialModelScale": "0x2530"
+        "m_animgraph": "0x3A30",
+        "m_animgraphCharacterModeString": "0x3A38",
+        "m_flInitialModelScale": "0x3A40"
     },
     "CBaseAnimGraphController": {
         "m_animGraphNetworkedVars": "0x18",
@@ -3314,23 +3314,23 @@
         "m_hOwner": "0x20"
     },
     "client_dll": {
-        "dwCSGOInput": "0x1A365C0",
-        "dwEntityList": "0x19CA858",
-        "dwGameEntitySystem": "0x1AE4928",
+        "dwCSGOInput": "0x1A386E0",
+        "dwEntityList": "0x19CCAD8",
+        "dwGameEntitySystem": "0x1AE6A58",
         "dwGameEntitySystem_highestEntityIndex": "0x1520",
-        "dwGameRules": "0x1A28438",
-        "dwGlobalVars": "0x1823C50",
-        "dwGlowManager": "0x1A27B70",
-        "dwLocalPlayerController": "0x1A1A6C0",
-        "dwLocalPlayerPawn": "0x182FAD8",
-        "dwPlantedC4": "0x1A32070",
-        "dwPrediction": "0x182F970",
-        "dwSensitivity": "0x1A29158",
+        "dwGameRules": "0x1A2A568",
+        "dwGlobalVars": "0x1825C60",
+        "dwGlowManager": "0x1A29CA0",
+        "dwLocalPlayerController": "0x1A1C7E0",
+        "dwLocalPlayerPawn": "0x1831AE8",
+        "dwPlantedC4": "0x1A341A0",
+        "dwPrediction": "0x1831980",
+        "dwSensitivity": "0x1A2B288",
         "dwSensitivity_sensitivity": "0x40",
-        "dwViewAngles": "0x1A36990",
-        "dwViewMatrix": "0x1A2CB00",
-        "dwViewRender": "0x1A2D308",
-        "dwWeaponC4": "0x19CDC50"
+        "dwViewAngles": "0x1A38AB0",
+        "dwViewMatrix": "0x1A2EC30",
+        "dwViewRender": "0x1A2F440",
+        "dwWeaponC4": "0x19CFD60"
     },
     "engine2_dll": {
         "dwBuildNumber": "0x52EBE4",
@@ -3342,8 +3342,8 @@
         "dwNetworkGameClient_maxClients": "0x238",
         "dwNetworkGameClient_serverTickCount": "0x36C",
         "dwNetworkGameClient_signOnState": "0x228",
-        "dwWindowHeight": "0x611094",
-        "dwWindowWidth": "0x611090"
+        "dwWindowHeight": "0x611034",
+        "dwWindowWidth": "0x611030"
     },
     "inputsystem_dll": {
         "dwInputSystem": "0x377E0"
@@ -3358,9 +3358,9 @@
     },
     "Trash": {
         "AnimGraph": "0x14f6f0",
-        "Aspect_Ratio": "0x7eeb80",
-        "Fov_Changer": "0x513170",
-        "Fov_Offset": "0x54d020",
+        "Aspect_Ratio": "0x7ef3e0",
+        "Fov_Changer": "0x513300",
+        "Fov_Offset": "0x54d1b0",
         "LightSceneObject": "0x67a40",
         "ScenSystem": "0x30410",
         "hkDrawSceneObject": "0x55520"
